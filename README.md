@@ -1,3 +1,6 @@
+<p align="center">
+   :rainbow: <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">:rainbow: 
+</p>
 <h1 align="center">Hi 👋, I'm Nirmal Pal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
