@@ -11,7 +11,6 @@
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-/*<p align="left"> <a href="https://twitter.com/nevertweets9" target="blank"><img src="https://img.shields.io/twitter/follow/nevertweets9?logo=twitter&style=for-the-badge" alt="nevertweets9" /></a> </p>*/
 
 - 🔭 I’m currently working on **Result Manegement Project**
 
